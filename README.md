@@ -3,11 +3,11 @@
 I'm a Software Engineer focused on front-end development, with 8 years of experience. Really passionate about coding and always open to learn new things.
 
 ### Actively working with 🧑🏻‍💻:
-<img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/react.svg" width="48" alt="React" title="React"/>
-<img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/typescript.svg" alt="Typescript" title="Typescript"/>
-<img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/javascript.svg" alt="Javascript" title="Javascript"/>
-<img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/html5.svg" alt="HTML" title="HTML"/>
-<img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/css3.svg" alt="CSS" title="CSS"/>
+<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/react.svg" width="48" alt="React" title="React"/></a>
+<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/typescript.svg" alt="Typescript" title="Typescript"/></a>
+<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/javascript.svg" alt="Javascript" title="Javascript"/></a>
+<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/html5.svg" alt="HTML" title="HTML"/></a>
+<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/css3.svg" alt="CSS" title="CSS"/></a>
 
 
 ### Get in touch 🌍:
