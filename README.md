@@ -1,6 +1,6 @@
 ## Hi, I'm Paulo ✌🏻
 
-I'm a Software Engineer focused on front-end development, with 8 years of experience. Really passionate about coding and always open to learn new things.
+I'm a Software Engineer currently focused on front-end development. Passionate about coding and always open to learn new things.
 
 ### Actively working with 🧑🏻‍💻:
 <a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/react.svg" width="48" alt="React" title="React"/></a>
