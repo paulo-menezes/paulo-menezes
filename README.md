@@ -12,5 +12,4 @@ I'm a Software Engineer currently focused on front-end development. Passionate a
 
 ### Get in touch 🌍:
 <a href="https://www.linkedin.com/in/paulomenezesdeveloper" target="_blank"><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/linkedin.svg" alt="LinkedIn"/></a>
-<a href="https://twitter.com/PauloHenryquee" target="_blank"><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/twitter.svg" width="48" alt="Twitter"/></a>
 <a href="mailto:paulohenryquemenezes@gmail.com"><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/gmail.svg" alt="GMail"/></a>
