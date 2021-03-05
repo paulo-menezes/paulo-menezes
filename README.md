@@ -8,7 +8,7 @@ I'm a Software Engineer currently focused on front-end development. Passionate a
 <a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/javascript.svg" alt="Javascript" title="Javascript"/></a>
 <a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/html5.svg" alt="HTML" title="HTML"/></a>
 <a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/css3.svg" alt="CSS" title="CSS"/></a>
-<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/nodejs.svg" width="48" alt="NodeJS" title="NodeJS"/></a>
+<a><img src="https://raw.githubusercontent.com/paulo-menezes/paulo-menezes/master/icons/nodejs.svg" width="42" alt="NodeJS" title="NodeJS"/></a>
 
 
 ### Get in touch 🌍:
